@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BikovKP.Clique">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABAQAAAqAgECAAAAAABAAAAAAAAEAQAAAAAAAQ=</HashCode>
+      <FileName>Clique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikovKP.MyGraph">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BikovKP.MyGraph.BitMatrix">
+        <TypeIdentifier>
+          <NewMemberFileName>Clique.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAACAAAAAgEAAAAAAYAAAACAAAAAAAQAACAAAA=</HashCode>
+      <FileName>Clique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikovKP.MainForm">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="AddNewGraph" Hidden="true" />
+      <Field Name="Compare" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="CreateKeyBoardGraph" Hidden="true" />
+      <Field Name="CreateRandomGraph" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="DropGraph" Hidden="true" />
+      <Field Name="Edges" Hidden="true" />
+      <Field Name="Export" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Field Name="groupBox7" Hidden="true" />
+      <Field Name="Import" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="KeyBoardGraph" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="NumberOfGraphForDroping" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Field Name="RandomGraph" Hidden="true" />
+      <Field Name="ResultOfGraph" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="TotalResult" Hidden="true" />
+      <Field Name="Vertices" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QAAIgABABCAAAFQAKICARBACAUJgAAhAsCZIBFAABAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikovKP.Graph">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQCAAAEAAIAACAIIAIAGAAAgAAAAABAAAAAAgAA=</HashCode>
+      <FileName>Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikovKP.GraphBuilder">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKgAIACAAAAgAACAAAAAAAIAAAwBAgAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikovKP.Program">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

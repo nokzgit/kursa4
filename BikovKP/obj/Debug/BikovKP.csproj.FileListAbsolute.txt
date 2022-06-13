@@ -1,0 +1,40 @@
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\bin\Debug\BikovKP.exe.config
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\bin\Debug\BikovKP.exe
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\bin\Debug\BikovKP.pdb
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\obj\Debug\BikovKP.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\obj\Debug\BikovKP.Properties.Resources.resources
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\obj\Debug\BikovKP.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\obj\Debug\BikovKP.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\obj\Debug\BikovKP.exe
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\obj\Debug\BikovKP.pdb
+C:\Users\Игорь\source\repos\BikovKP\BikovKP\obj\Debug\BikovKP.MainForm.resources
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\bin\Debug\BikovKP.exe.config
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\bin\Debug\BikovKP.exe
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\bin\Debug\BikovKP.pdb
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\obj\Debug\BikovKP.csprojAssemblyReference.cache
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\obj\Debug\BikovKP.MainForm.resources
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\obj\Debug\BikovKP.Properties.Resources.resources
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\obj\Debug\BikovKP.csproj.GenerateResource.cache
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\obj\Debug\BikovKP.csproj.CoreCompileInputs.cache
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\obj\Debug\BikovKP.exe
+C:\Users\n0kz\source\tp forms\BikovKP2\BikovKP\obj\Debug\BikovKP.pdb
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\bin\Debug\BikovKP.exe.config
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\bin\Debug\BikovKP.exe
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\bin\Debug\BikovKP.pdb
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\obj\Debug\BikovKP.csprojAssemblyReference.cache
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\obj\Debug\BikovKP.MainForm.resources
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\obj\Debug\BikovKP.Properties.Resources.resources
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\obj\Debug\BikovKP.csproj.GenerateResource.cache
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\obj\Debug\BikovKP.csproj.CoreCompileInputs.cache
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\obj\Debug\BikovKP.exe
+C:\Users\n0kz\source\курсач тп\BikovKP\BikovKP\obj\Debug\BikovKP.pdb
+C:\Users\n0kz\source\tp forms\тест\BikovKP\bin\Debug\BikovKP.exe.config
+C:\Users\n0kz\source\tp forms\тест\BikovKP\bin\Debug\BikovKP.exe
+C:\Users\n0kz\source\tp forms\тест\BikovKP\bin\Debug\BikovKP.pdb
+C:\Users\n0kz\source\tp forms\тест\BikovKP\obj\Debug\BikovKP.csprojAssemblyReference.cache
+C:\Users\n0kz\source\tp forms\тест\BikovKP\obj\Debug\BikovKP.MainForm.resources
+C:\Users\n0kz\source\tp forms\тест\BikovKP\obj\Debug\BikovKP.Properties.Resources.resources
+C:\Users\n0kz\source\tp forms\тест\BikovKP\obj\Debug\BikovKP.csproj.GenerateResource.cache
+C:\Users\n0kz\source\tp forms\тест\BikovKP\obj\Debug\BikovKP.csproj.CoreCompileInputs.cache
+C:\Users\n0kz\source\tp forms\тест\BikovKP\obj\Debug\BikovKP.exe
+C:\Users\n0kz\source\tp forms\тест\BikovKP\obj\Debug\BikovKP.pdb
